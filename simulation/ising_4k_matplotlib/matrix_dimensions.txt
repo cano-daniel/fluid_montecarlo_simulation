@@ -1,0 +1,4 @@
+n_height=180
+n_width=320
+resolution=3840x2160
+dpi=100

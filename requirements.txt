@@ -1,0 +1,9 @@
+numpy
+matplotlib
+notebook
+numba
+ipympl
+ipywidgets
+pandas
+pyqtgraph
+PyQt6
